@@ -1,0 +1,7 @@
+# ninja log v5
+1	58	1644101763487835708	CMakeFiles/HW1.dir/src/problem2.c.o	ffccd1e34a8a8d42
+0	58	1644101763487972328	CMakeFiles/HW1.dir/src/problem1.c.o	fd8f08b5ea7b79a7
+1	58	1644101763487836042	CMakeFiles/HW1.dir/src/problem4.c.o	efb4a5a3103d249
+1	58	1644101763489217451	CMakeFiles/HW1.dir/src/problem2_template.c.o	820247f68a45643
+0	30	1644108643414834665	CMakeFiles/p1.dir/src/problem1.c.o	76a39d6f74af2c51
+30	67	1644108643452160107	p1	5787808a6f2c2086
